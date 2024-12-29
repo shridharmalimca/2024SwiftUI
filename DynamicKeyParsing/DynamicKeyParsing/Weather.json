@@ -1,0 +1,14 @@
+{
+ "Pune": {
+  "conditions": "Partly Cloudy",
+  "temperature": 11
+ },
+ "Mumbai": {
+  "conditions": "Sunny",
+  "temperature": 15,
+ },
+ "Delhi": {
+  "conditions": "Cloudy",
+  "temperature": 6,
+ }
+}
